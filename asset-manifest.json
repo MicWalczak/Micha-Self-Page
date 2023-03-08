@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Michal-Self-Page/static/css/main.4a331212.css",
+    "main.css": "/Michal-Self-Page/static/css/main.c465cc8b.css",
     "main.js": "/Michal-Self-Page/static/js/main.c7b1ce67.js",
     "static/media/profile.png": "/Michal-Self-Page/static/media/profile.59b273cd9376427d6d34.png",
     "static/media/bgWhite.png": "/Michal-Self-Page/static/media/bgWhite.e33988d8b2a27bef8420.png",
@@ -27,13 +27,13 @@
     "static/media/css.png": "/Michal-Self-Page/static/media/css.5721a3928fe43de6baf8.png",
     "static/media/git.png": "/Michal-Self-Page/static/media/git.a54d3fa44e02f2f61e69.png",
     "static/media/skype.png": "/Michal-Self-Page/static/media/skype.c8d7ee175da5b4c8a8ab.png",
-    "static/media/circle.svg": "/Michal-Self-Page/static/media/circle.311fb0accf26941f98366503d915dc67.svg",
     "index.html": "/Michal-Self-Page/index.html",
-    "main.4a331212.css.map": "/Michal-Self-Page/static/css/main.4a331212.css.map",
+    "static/media/circle.svg": "/Michal-Self-Page/static/media/circle.311fb0accf26941f98366503d915dc67.svg",
+    "main.c465cc8b.css.map": "/Michal-Self-Page/static/css/main.c465cc8b.css.map",
     "main.c7b1ce67.js.map": "/Michal-Self-Page/static/js/main.c7b1ce67.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a331212.css",
+    "static/css/main.c465cc8b.css",
     "static/js/main.c7b1ce67.js"
   ]
 }
