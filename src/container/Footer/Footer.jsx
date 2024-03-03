@@ -6,7 +6,7 @@ import { client } from "../../client";
 import "./Footer.scss";
 
 const Footer = () => {
-  const [FormData, setFormData] = useState({
+ /* const [FormData, setFormData] = useState({
     name: "",
     email: "",
     message: "",
@@ -35,7 +35,7 @@ const Footer = () => {
       setIsFormSubmitted(true);
     });
   };
-  return (
+  return (*/
     <>
       <h2 className="head-text">
         If you are interested in working with me,
