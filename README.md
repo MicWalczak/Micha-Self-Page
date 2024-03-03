@@ -8,27 +8,20 @@ Krótki opis projektu. Może zawierać główne cele, funkcje i/lub zastosowania
 
 - [Wprowadzenie](#wprowadzenie)
 - [Technologie](#technologie)
-- [Wkład](#wkład)
-- [Licencja](#licencja)
 - [Autorzy](#autorzy)
 
 ## Wprowadzenie
 
-Krótki opis projektu, co robi i dlaczego jest ważny.
+Moja strona portfolio na której dowiesz sie więcej o mnie moich projektach oraz technologiuach, w których się poruszam. Strona napisana jest w Reakt podzielona jest na sekcje 
 
 ## Technologie
 
 Wymień główne technologie używane w projekcie.
 
-- Przykład 1
-- Przykład 2
-- ...
+- Reakt
+- SCSS
+- 
 
 ## Autorzy
 
-
-
-```bash
-git clone https://github.com/twoje_repozytorium.git
-cd twoje_repozytorium
-npm install  # lub inna komenda instalacyjna
+Michał Walczak
