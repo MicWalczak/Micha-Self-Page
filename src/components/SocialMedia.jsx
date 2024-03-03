@@ -7,7 +7,7 @@ const SocialMedia = () => {
   return (
     <div className='app__social'>
     <div>
-        <a href='https://www.linkedin.com/feed/'><AiFillLinkedin/></a>
+        <a href='www.linkedin.com/in/michał-walczak-61a22823a'><AiFillLinkedin/></a>
     </div>
     <div>
        <a href="https://api.whatsapp.com/send/?phone=48884837792&text&type=phone_number&app_absent=0"><BsWhatsapp/></a>
