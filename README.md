@@ -1,27 +1,27 @@
-# Nazwa Twojego Projektu
+# My Page
 
-![Logo](link_do_logo.png) <!-- Dodaj logo projektu, jeśli jest dostępne -->
+# Project Brief
 
-Krótki opis projektu. Może zawierać główne cele, funkcje i/lub zastosowania.
+A proftolio page 
 
-## Spis Treści
+## Table of Contents
 
-- [Wprowadzenie](#wprowadzenie)
-- [Technologie](#technologie)
-- [Autorzy](#autorzy)
+- [Introduction](#introduction)
+- [Technologies](#technologies)
+- [Authors](#authors)
 
-## Wprowadzenie
+## Introduction
 
-Moja strona portfolio na której dowiesz sie więcej o mnie moich projektach oraz technologiuach, w których się poruszam. Strona napisana jest w Reakt podzielona jest na sekcje 
+My portfolio website where you can learn more about me, my projects, and the technologies I work with. The site is built using React and is divided into sections.
 
-## Technologie
+## Technologies
 
-Wymień główne technologie używane w projekcie.
+List of the main technologies used in the project.
 
-- Reakt
+- React
 - SCSS
-- 
+- Sanity
 
-## Autorzy
+## Authors
 
 Michał Walczak
